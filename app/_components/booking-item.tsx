@@ -5,6 +5,8 @@ import { Card, CardContent } from "./ui/card";
 import { ptBR } from "date-fns/locale";
 
 export default async function BookingItem() {
+  
+
   return(
     <Card className="min-w-full">
       <CardContent className="grid grid-cols-[70%,30%] p-0">
